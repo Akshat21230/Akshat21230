@@ -9,24 +9,21 @@
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm a **Under Grad Student🎓 [@ Indraprastha Institute of Information Technolgy, Delhi]([https://www.osu.edu/](https://iiitd.ac.in/))** majoring in Computer Science and Applied Mathematics. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+I'm a **Undergrad Student🎓 [@ Indraprastha Institute of Information Technolgy, New Delhi]([https://www.osu.edu/](https://iiitd.ac.in/))** majoring in Computer Science and Applied Mathematics. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
 
 
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working as a Researcher at **[@ The Ohio State University - Wexner Medical Center 🅾️](https://wexnermedical.osu.edu/)**
+- 🔭 I’m currently working as a Researcher at **IIITD - Network Security Lab**
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+  - 🛡️ CyberSecurity
   - 📊 Machine Learning & Data Science
   - 🖼 Computer Vision
-  - 🛠 DIY Raspberry Pi Projects
-  - 🤖 Robotics
-- 📝 I write technical blogs and articles
-- 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
-- 💬 Ask me about Python, ML, DL, CV, NLP
-- 📙 Check out my [Resume](https://www.linkedin.com/in/hemanthkollipara/)
-- 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
+- 👯 I’m looking to collaborate on good cybersecurity and machine learning realted projects.
+- 💬 Ask me about Cybersecurity, Android, Python and ML
+- 📙 Check out my [Resume](https://github.com/user-attachments/files/16132227/Placement_Resume.pdf)
 
   
 ### 🖥️ My DevSetup
@@ -35,7 +32,6 @@ I'm a **Under Grad Student🎓 [@ Indraprastha Institute of Information Technolg
 ### ⚙️ Some Tool and Tech I use
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4"></code>
   <code><img height="30" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -52,40 +48,10 @@ I'm a **Under Grad Student🎓 [@ Indraprastha Institute of Information Technolg
 
 ### 🚀 Quick Stats
 <p align="center">
-<img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=Defcon27&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" />
-<!-- <img width="340" height="155" align="center" 
-     src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Defcon27&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" /> -->
+<img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=Akshat21230&show_icons=true&line_height=21&theme=react" alt="Akshat's Github Stats" />
+
 </p>
 
-
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Defcon27) -->
-
-
-<!-- <details>
-<summary> 💥 Working on </summary>
-<br>
-<p align="center">
-<a href="https://github.com/Defcon27/Machine-Learning">
-<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=Defcon27&repo=Machine-Learning&show_owner=true&theme=react" />
-</a>&ensp;
-<a href="https://github.com/Defcon27/Deep-Learning">
-<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=Defcon27&repo=Deep-Learning&show_owner=true&theme=react" />
-</a>
-</p>
-</details> -->
-
-
-
-<!--
-**Defcon27/Defcon27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-pic on right
-<img height="270" src="sss.svg" align=right>
-
- 
-views
-![Profile Views](https://komarev.com/ghpvc/?username=Defcon27)
-[![HitCount](http://hits.dwyl.com/Defcon27/.svg)](http://hits.dwyl.com/Defcon27)
 
 
 social modded badge
