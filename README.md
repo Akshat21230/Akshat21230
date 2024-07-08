@@ -28,11 +28,6 @@ I'm a **Undergrad Student🎓 [@ Indraprastha Institute of Information Technolgy
 ### 🖥️ My DevSetup
 <img src="https://img.shields.io/badge/Legion-555555.svg?&style=flat-square&logo=Lenovo&logoColor=E2231A"> <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
 
-### ⚙️ Some Tool and Tech I use
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/6203c6a5d14b058b5fc3f6b2eacf33f1a59d9b82/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/539d3badeaf25b129dd693a4d7ba79e5e0a39a47/topics/linux/linux.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/6203c6a5d14b058b5fc3f6b2eacf33f1a59d9b82/topics/android/android.png"></code>
 
 
 
