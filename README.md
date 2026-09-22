@@ -7,8 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:kakshat1121@gmail.com)
 
 
-### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm a **Undergrad Student🎓 [@ Indraprastha Institute of Information Technolgy, New Delhi]([https://www.osu.edu/](https://iiitd.ac.in/))** majoring in Computer Science and Applied Mathematics. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+### I'm a Software Engineer 💻 @ Trademo, and a B.Tech grad in Computer Science from IIIT Delhi 🎓. Alongside my full-time role, I freelance in ML 🤖 — data science, computer vision, and graph-based research (published at USENIX CSET'24). I love building products that serve a real purpose. <br/><br/>
 
 
 
