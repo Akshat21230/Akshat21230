@@ -7,7 +7,16 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:kakshat1121@gmail.com)
 
 
-### I'm a Software Engineer 💻 @ Trademo, and a B.Tech grad in Computer Science from IIIT Delhi 🎓. Alongside my full-time role, I freelance in ML 🤖 — data science, computer vision, and graph-based research (published at USENIX CSET'24). I love building products that serve a real purpose. <br/><br/>
+### Hi, I'm Akshat 👋
+
+I'm a Software Engineer 💻 @ [Trademo](https://trademo.io), and a B.Tech CSE grad from IIIT Delhi 🎓. Alongside my full-time role, I freelance in ML 🤖 — data science, computer vision, and graph-based ML research (published at USENIX CSET'24). I love building products that serve a real purpose.
+
+- 🔭 Currently working full-time as an SDE, and freelancing on ML projects on the side
+- 🌱 Interested in applied data science, computer vision, and graph neural networks
+- 📫 Reach me at kakshat1121@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/akshat-kumar-108831234/)
+
+<br><br>
 
 
 
