@@ -7,7 +7,7 @@
 
 ### Hi, I'm Akshat 👋
 
-I'm a Software Engineer 💻 @ Trademo, and a B.Tech CSE grad from IIIT Delhi 🎓. Alongside my full-time role, I freelance in ML 🤖 — data science, computer vision, and graph-based ML research (published at USENIX CSET'24). I love building products that serve a real purpose.
+I'm a Software Engineer 💻 @ Trademo, and a B.Tech CSAM grad from IIIT Delhi 🎓. Alongside my full-time role, I freelance in ML 🤖 — data science, computer vision, and graph-based ML research (published at USENIX CSET'24). I love building products that serve a real purpose.
 
 <br>
 
